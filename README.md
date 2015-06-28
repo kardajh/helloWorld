@@ -1,5 +1,11 @@
 # helloWorld
-Learning github
-Ok this is my first change of the readme file.
+## Learning github
+### Ok this is my first change of the readme file.
  
 another change.
+
+* item 
+* item
+* item
+
+Hey!
